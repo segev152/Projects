@@ -1,6 +1,6 @@
 A streamlined, fully automated DevSecOps pipeline that provisions a secure AWS infrastructure using Terraform and deploys a containerized Flask application to an Amazon EKS cluster using Helm. This project implements a "Shift-Left" security approach by auditing code before deployment.
 
-## 🔒 Key Security Features
+##  Key Security Features
 
 * **IaC Scanning:** Automated `tfsec` static analysis that fails the pipeline if high-risk vulnerabilities are detected.
 
@@ -13,7 +13,7 @@ A streamlined, fully automated DevSecOps pipeline that provisions a secure AWS i
 
 
 
-## 🚀 Execution Sequence
+## Execution Sequence
 
 
 To deploy or destroy the infrastructure, run the scripts in this exact order:
